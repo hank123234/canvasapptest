@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "35da773b-5baa-4ecc-b16e-b2caec422735",
+    "Name": "RecordLogin2AppInsight",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "8510bacb-93c3-ec11-983e-0017fa04b6de"
+  }
+]

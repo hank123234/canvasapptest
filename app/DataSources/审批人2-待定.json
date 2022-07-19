@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "a858eca0-e6bb-4c41-8703-7f7420d437b8",
+    "Name": "审批人2-待定",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "a6f00fcc-b4a8-ec11-b3fe-0017fa03b4bd"
+  }
+]

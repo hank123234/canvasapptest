@@ -1,0 +1,18 @@
+App As appinfo:
+    BackEnabled: =false
+    ConfirmExit: =true
+    MinScreenHeight: =App.Height
+    MinScreenWidth: =App.Width
+    OnStart: |-
+        =Set(OnUser,LookUp(用户,'Windows Live ID'=User().Email));
+        Collect(sp2,{Email:"lvj@tesla.com"},{Email:"cosun@tesla.com"},{Email:"feilhuang@tesla.com"},{Email:"yli47@tesla.com"},{Email:"sunp@tesla.com"},{Email:"daq@tesla.com"},{Email:"guacui@tesla.com"},{Email:"kaihozhang@tesla.com"},{Email:"zhoupeng@tesla.com"},{Email:"hongsyang@tesla.com"},{Email:"qiangzho@tesla.com"},{Email:"shaofzhang@tesla.com"},{Email:"zouji@tesla.com"},{Email:"liboyang@tesla.com"},{Email:"feweng@tesla.com"},{Email:"yangbwu@tesla.com"},{Email:"weitayang@tesla.com"},{Email:"wenyowang@tesla.com"},{Email:"chenhye@tesla.com"},{Email:"yuhazhu@tesla.com"},{Email:"daqxue@tesla.com"},{Email:"liangzyu@tesla.com"});
+        //Collect(sp1,{Email:"yangbai@tesla.com"},{Email:"ychu@tesla.com"},{Email:"sgui@tesla.com"},{Email:"huifeng@tesla.com"},{Email:"xiaoshhe@tesla.com"},{Email:"haopan@tesla.com"},{Email:"enshi@tesla.com"},{Email:"xugchen@tesla.com"},{Email:"hongjcheng@tesla.com"},{Email:"yeshen@tesla.com"});
+        Collect(sp3,{Email:"yangbai@tesla.com"},{Email:"ychu@tesla.com"},{Email:"sgui@tesla.com"},{Email:"huifeng@tesla.com"},{Email:"xiaoshhe@tesla.com"},{Email:"haopan@tesla.com"},{Email:"enshi@tesla.com"},{Email:"xugchen@tesla.com"},{Email:"leitang@tesla.com"},{Email:"daqxue@tesla.com"},{Email:"yeshen@tesla.com"},{Email:"lvj@tesla.com"},{Email:"cosun@tesla.com"},{Email:"feilhuang@tesla.com"},{Email:"yli47@tesla.com"},{Email:"sunp@tesla.com"},{Email:"daq@tesla.com"},{Email:"guacui@tesla.com"},{Email:"kaihozhang@tesla.com"},{Email:"zhoupeng@tesla.com"},{Email:"hongsyang@tesla.com"},{Email:"qiangzho@tesla.com"},{Email:"shaofzhang@tesla.com"},{Email:"zouji@tesla.com"},{Email:"liboyang@tesla.com"},{Email:"feweng@tesla.com"},{Email:"hongjcheng@tesla.com"},{Email:"yangbwu@tesla.com"},{Email:"weitayang@tesla.com"},{Email:"wenyowang@tesla.com"},{Email:"yuhazhu@tesla.com"},{Email:"chenhye@tesla.com"},{Email:"liangzyu@tesla.com"});
+        //sp1审批人，sp2执行者,sp3=sp1+sp2
+        RecordLogin2AppInsight.Run("PMC_DU_Mobile","Login",User().Email);
+        Collect(sp1,{Email:""});
+        Collect(经理,{Email:"yangbai@tesla.com"},{Email:"ychu@tesla.com"},{Email:"sgui@tesla.com"},{Email:"huifeng@tesla.com"},{Email:"xiaoshhe@tesla.com"},{Email:"haopan@tesla.com"},{Email:"enshi@tesla.com"},{Email:"xugchen@tesla.com"},{Email:"hongjcheng@tesla.com"},{Email:"yeshen@tesla.com"});
+        Collect(高级经理,{Email:"hanbi@tesla.com"});
+        Collect(通知,{Email:"liangzyu@tesla.com",姓名:"余梁直",区域:"Impregnation"},{Email:"liangzyu@tesla.com",姓名:"余梁直",区域:"FA"},{Email:"liangzyu@tesla.com",姓名:"余梁直",区域:"PM Winding	"},{Email:"jiaxipan@tesla.com",姓名:"潘加祥",区域:"FA"})
+    StartScreen: =
+

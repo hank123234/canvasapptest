@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "7857b5b4-c074-47e4-8a1e-3e54958a3e9c",
+    "Name": "拒绝审批",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "4966070f-adf6-ec11-bb3b-0017fa049c62"
+  }
+]

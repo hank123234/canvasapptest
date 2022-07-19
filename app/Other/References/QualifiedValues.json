@@ -1,0 +1,379 @@
+{
+  "QualifiedValues": [
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_craa0_maintab_forms",
+      "Namespace": "控制点变更申请表 (Forms)",
+      "Values": {
+        "信息": "6617a939-6e72-432c-97fc-ba249dc3ffe8"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_systemuser_forms",
+      "Namespace": "用户_1 (Forms)",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户 主窗体": "52e7dcc2-75ae-ec11-b3fe-0017fa04a04d",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (Forms)",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户 主窗体": "52e7dcc2-75ae-ec11-b3fe-0017fa04a04d",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_new_pmcapprove_forms",
+      "Namespace": "控制点变更审核 (Forms)",
+      "Values": {
+        "信息": "452d34d9-6267-4721-9bd0-cbe4d20e0d78"
+      }
+    },
+    {
+      "Kind": "default.cds_craa0_maintab_forms",
+      "Namespace": "控制点变更申请表_1 (Forms)",
+      "Values": {
+        "信息": "6617a939-6e72-432c-97fc-ba249dc3ffe8"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_task_forms",
+      "Namespace": "任务​​ (Forms)",
+      "Values": {
+        "交互式体验的任务": "d5b4a1b2-de4f-4f86-8768-b0730001e7d1",
+        "任务​​": "16654191-19ad-48ca-9e46-c4b4fbdad76f",
+        "任务卡窗体": "5e9725e4-5449-4363-8c1c-5ae71767af34",
+        "任务引用面板": "81a89014-442c-44ad-9725-4077426a7fee",
+        "任务快速创建窗体。": "a1c8a6dc-8804-4019-9c78-7dbe86560ea1",
+        "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74",
+        "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc"
+      }
+    },
+    {
+      "Kind": "default.cds_new___forms",
+      "Namespace": "现场主管确认表_ (Forms)",
+      "Values": {
+        "信息": "ee9d4dab-15db-4807-97e8-ebd1b3c4aa7d"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_activitypointer_forms",
+      "Namespace": "活动 (Forms)",
+      "Values": {}
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_team_forms",
+      "Namespace": "团队 (Forms)",
+      "Values": {
+        "Team": "7ba7fac1-1418-4335-935f-f7f8dfd73fcc",
+        "信息": "f5cfab6a-d4c2-4519-b68f-6e7485432e29",
+        "团队窗体 – 业务": "4aabf594-b30a-490d-bf97-89c67c6777fe"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_businessunit_forms",
+      "Namespace": "业务部门 (Forms)",
+      "Values": {
+        "信息": "ca8dfced-338c-43b2-b212-83745e257c28"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_craa0_maintab_forms",
+      "Namespace": "控制点变更申请表 (窗体)",
+      "Values": {
+        "信息": "6617a939-6e72-432c-97fc-ba249dc3ffe8"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_systemuser_forms",
+      "Namespace": "用户_1 (窗体)",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户 主窗体": "52e7dcc2-75ae-ec11-b3fe-0017fa04a04d",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户 主窗体": "52e7dcc2-75ae-ec11-b3fe-0017fa04a04d",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_new_pmcapprove_forms",
+      "Namespace": "控制点变更审核 (窗体)",
+      "Values": {
+        "信息": "452d34d9-6267-4721-9bd0-cbe4d20e0d78"
+      }
+    },
+    {
+      "Kind": "default.cds_craa0_maintab_forms",
+      "Namespace": "控制点变更申请表_1 (窗体)",
+      "Values": {
+        "信息": "6617a939-6e72-432c-97fc-ba249dc3ffe8"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_task_forms",
+      "Namespace": "任务​​ (窗体)",
+      "Values": {
+        "交互式体验的任务": "d5b4a1b2-de4f-4f86-8768-b0730001e7d1",
+        "任务​​": "16654191-19ad-48ca-9e46-c4b4fbdad76f",
+        "任务卡窗体": "5e9725e4-5449-4363-8c1c-5ae71767af34",
+        "任务引用面板": "81a89014-442c-44ad-9725-4077426a7fee",
+        "任务快速创建窗体。": "a1c8a6dc-8804-4019-9c78-7dbe86560ea1",
+        "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74",
+        "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc"
+      }
+    },
+    {
+      "Kind": "default.cds_new___forms",
+      "Namespace": "现场主管确认表_ (窗体)",
+      "Values": {
+        "信息": "ee9d4dab-15db-4807-97e8-ebd1b3c4aa7d"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_activitypointer_forms",
+      "Namespace": "活动 (窗体)",
+      "Values": {}
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_team_forms",
+      "Namespace": "团队 (窗体)",
+      "Values": {
+        "Team": "7ba7fac1-1418-4335-935f-f7f8dfd73fcc",
+        "信息": "f5cfab6a-d4c2-4519-b68f-6e7485432e29",
+        "团队窗体 – 业务": "4aabf594-b30a-490d-bf97-89c67c6777fe"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_businessunit_forms",
+      "Namespace": "业务部门 (窗体)",
+      "Values": {
+        "信息": "ca8dfced-338c-43b2-b212-83745e257c28"
+      }
+    },
+    {
+      "Kind": "default.cds_new_renyuan_forms",
+      "Namespace": "各区域人员清单 (窗体)",
+      "Values": {
+        "信息": "f3f6246c-27af-437f-8d49-b94fc840335f"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_new_shenpiren_forms",
+      "Namespace": "可选审批人 (窗体)",
+      "Values": {
+        "信息": "a6405033-d7a0-4d37-b177-f41423030af3"
+      }
+    },
+    {
+      "Kind": "default.cds_email_forms",
+      "Namespace": "电子邮件 (窗体)",
+      "Values": {
+        "交互式体验的电子邮件": "1d5ad078-3edb-4edc-98c6-c0c21e3125e3",
+        "信息": "394ca387-4777-457c-b5ae-c7a3e632be41",
+        "向导": "9360ee64-5238-4334-a1de-c155d20fe63d",
+        "增强电子邮件": "63769d04-c74f-4808-b0aa-77339e1b9191",
+        "电子邮件": "0d1e47ff-12b2-4f53-9090-bee951b98cb4",
+        "电子邮件卡窗体": "e5538bb9-77ec-4d24-bc5f-8cb2d825f664",
+        "电子邮件引用面板": "6661cf9b-c178-44fd-b70b-8c632bd0bfb2"
+      }
+    },
+    {
+      "Kind": "default.cds_new_sp_forms",
+      "Namespace": "审批人 (窗体)",
+      "Values": {
+        "信息": "0b34f538-f93f-42d4-8299-c50347a1c2fd"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_new_a_forms",
+      "Namespace": "车间审批人配置表 (窗体)",
+      "Values": {
+        "信息": "2ad319e7-5a3f-4c10-a2f3-68702e1b82a6",
+        "车间审批人配置表 主窗体": "48cfbf8c-3da4-ec11-b3fe-0017fa036b79"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_systemuser_forms",
+      "Namespace": "用户 (窗体)1",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户_1 (窗体)1",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)11",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)2",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_systemuser_forms",
+      "Namespace": "用户_1 (窗体)11",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)3",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)4",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)5",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)6",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)7",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_systemuser_forms",
+      "Namespace": "用户_1 (窗体)2",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)8",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)9",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "default.cds_systemuser_forms",
+      "Namespace": "用户 (窗体)10",
+      "Values": {
+        "信息": "094fb08a-77bb-49e0-b7ea-8dbddfd01294",
+        "应用程序用户": "d26924ef-4d80-46f7-ab1d-e6ae80a54ce8",
+        "用户": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
+        "用户层次结构磁贴窗体": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452",
+        "用户窗体 – 业务": "c2413504-7eb2-4c59-a087-95d819866114"
+      }
+    },
+    {
+      "Kind": "bc4ad2b3-6bf3-4841-a3df-b6c6e027f1c4_new___forms",
+      "Namespace": "现场主管确认表__1 (窗体)",
+      "Values": {
+        "信息": "ee9d4dab-15db-4807-97e8-ebd1b3c4aa7d"
+      }
+    }
+  ]
+}
