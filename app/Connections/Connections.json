@@ -174,6 +174,39 @@
     ],
     "id": "abc03910-81fa-436b-acc5-637f1979cdb4"
   },
+  "bd96eda4-f48b-4bf2-b7a7-1b216999a869": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "Excel Online (Business)",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1587/1.0.1587.2924/excelonlinebusiness/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_excelonlinebusiness"
+    },
+    "datasets": {
+      "me,b%2521ycRB7xkcD0G9fMmUUaKI6pvmKkykamxMv-zU2zS6WOeZUboMFTFTS7bGXFcjzyZd,01EQQKONEPQ4L7QOFYIJF3KNSIWFQQTMLM": {
+        "dataSources": {
+          "表1": {
+            "tableName": "{A05D36C3-D162-4EED-8AE0-AE547D0C6EEA}"
+          }
+        }
+      },
+      "me,b%2521ycRB7xkcD0G9fMmUUaKI6pvmKkykamxMv-zU2zS6WOeZUboMFTFTS7bGXFcjzyZd,01EQQKONFXZ3NTTM3AQNH2PNU4WSZLFAHG": {
+        "dataSources": {
+          "Table_query": {
+            "tableName": "{00000000-000C-0000-FFFF-FFFF00000000}"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "表1",
+      "Table_query"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "bd96eda4-f48b-4bf2-b7a7-1b216999a869"
+  },
   "fc0c8002-ef24-413f-a6e7-a2f901adaab9": {
     "connectionParameters": {},
     "connectionRef": {
