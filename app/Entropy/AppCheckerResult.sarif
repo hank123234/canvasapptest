@@ -175,6 +175,1884 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 389,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 148,
+                  "charOffset": 382,
+                  "snippet": {
+                    "text": "Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域),Text(变更类型)= \"一类/NPI变更-工艺过程、设备改造、NPI变更\" ,变更是否关闭 = \"已关闭\",审批是否完成=\"是\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Filter"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 15,
+                  "charOffset": 399,
+                  "snippet": {
+                    "text": "'控制点变更申请表 (视图)'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表 (视图)"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 414,
+                  "snippet": {
+                    "text": ".已关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 425,
+                  "snippet": {
+                    "text": "变更产线"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更产线"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 419,
+                  "snippet": {
+                    "text": "Text( 变更产线)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 441,
+                  "snippet": {
+                    "text": "表1"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "表1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 29,
+                  "charOffset": 434,
+                  "snippet": {
+                    "text": "LookUp(表1,邮箱=User().Email,区域)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "LookUp"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 444,
+                  "snippet": {
+                    "text": "邮箱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "邮箱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 446,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 460,
+                  "snippet": {
+                    "text": "区域"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "区域"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 469,
+                  "snippet": {
+                    "text": "变更类型"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更类型"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 464,
+                  "snippet": {
+                    "text": "Text(变更类型)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 504,
+                  "snippet": {
+                    "text": "变更是否关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更是否关闭"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 511,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 519,
+                  "snippet": {
+                    "text": "审批是否完成"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "审批是否完成"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 525,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 558,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 164,
+                  "charOffset": 551,
+                  "snippet": {
+                    "text": "Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域),Text(变更类型)=\"一类/NPI变更-工艺过程、设备改造、NPI变更\" And \"二类：关键工艺参数变更\",变更是否关闭 = \"已关闭\",审批是否完成=\"是\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Filter"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 15,
+                  "charOffset": 568,
+                  "snippet": {
+                    "text": "'控制点变更申请表 (视图)'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表 (视图)"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 583,
+                  "snippet": {
+                    "text": ".已关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 594,
+                  "snippet": {
+                    "text": "变更产线"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更产线"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 588,
+                  "snippet": {
+                    "text": "Text( 变更产线)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 610,
+                  "snippet": {
+                    "text": "表1"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "表1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 29,
+                  "charOffset": 603,
+                  "snippet": {
+                    "text": "LookUp(表1,邮箱=User().Email,区域)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "LookUp"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 613,
+                  "snippet": {
+                    "text": "邮箱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "邮箱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 615,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 629,
+                  "snippet": {
+                    "text": "区域"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "区域"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 638,
+                  "snippet": {
+                    "text": "变更类型"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更类型"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 633,
+                  "snippet": {
+                    "text": "Text(变更类型)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 689,
+                  "snippet": {
+                    "text": "变更是否关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更是否关闭"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 696,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 704,
+                  "snippet": {
+                    "text": "审批是否完成"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "审批是否完成"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 710,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 723,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 82,
+                  "charOffset": 716,
+                  "snippet": {
+                    "text": "Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域))"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Filter"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 15,
+                  "charOffset": 733,
+                  "snippet": {
+                    "text": "'控制点变更申请表 (视图)'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表 (视图)"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 748,
+                  "snippet": {
+                    "text": ".已关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 759,
+                  "snippet": {
+                    "text": "变更产线"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更产线"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 753,
+                  "snippet": {
+                    "text": "Text( 变更产线)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 775,
+                  "snippet": {
+                    "text": "表1"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "表1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 29,
+                  "charOffset": 768,
+                  "snippet": {
+                    "text": "LookUp(表1,邮箱=User().Email,区域)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "LookUp"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 778,
+                  "snippet": {
+                    "text": "邮箱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "邮箱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 780,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 794,
+                  "snippet": {
+                    "text": "区域"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "区域"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 800,
+                  "snippet": {
+                    "text": "创建时间"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "创建时间"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.DataTable1.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 464,
+                  "charOffset": 352,
+                  "snippet": {
+                    "text": "Sort(If(User().Email in 高级经理, Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域),Text(变更类型)= \"一类/NPI变更-工艺过程、设备改造、NPI变更\" ,变更是否关闭 = \"已关闭\",审批是否完成=\"是\"),User().Email in 经理, Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域),Text(变更类型)=\"一类/NPI变更-工艺过程、设备改造、NPI变更\" And \"二类：关键工艺参数变更\",变更是否关闭 = \"已关闭\",审批是否完成=\"是\"),Filter(控制点变更申请表, '控制点变更申请表 (视图)'.已关闭,Text( 变更产线) in LookUp(表1,邮箱=User().Email,区域))),创建时间,Descending)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.DataTable1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Sort"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "变更执行中.DataTable1.'申请编号列(_C)1'.Text"
                 }
               ],
@@ -655,39 +2533,2366 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "变更执行中.Gallery1_3.Items"
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Title7_3.Text"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "变更执行中.Gallery1_3.Items",
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Title7_3.Text",
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 2,
-                  "charOffset": 503,
+                  "charLength": 5,
+                  "charOffset": 8,
                   "snippet": {
-                    "text": "in"
+                    "text": ".申请编号"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Title7_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "申请编号"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Subtitle5_3.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Subtitle5_3.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更内容"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Subtitle5_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更内容"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Body1_3.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Body1_3.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更类型"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Body1_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更类型"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 28,
+                  "snippet": {
+                    "text": ".结果评定"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "结果评定"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 11,
+                  "snippet": {
+                    "text": "IsBlank( ThisItem.结果评定)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 49,
+                  "snippet": {
+                    "text": ".结果评定"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "结果评定"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 47,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": "If(IsBlank( ThisItem.结果评定)=false,ThisItem.结果评定)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "If"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 76,
+                  "snippet": {
+                    "text": ".结果评定"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "结果评定"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.Gallery1_3.Label11_2.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 59,
+                  "snippet": {
+                    "text": "IsBlank( ThisItem.结果评定)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "变更执行中",
+                "type": "变更执行中.Gallery1_3.Label11_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.DataSource"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.DataSource",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DataSource",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.申请编号_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 67,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_name\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.申请编号_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.申请编号_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.申请编号_DataCard5.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".申请编号"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.申请编号_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 72,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_applytype\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更类型"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": "变更类型"
                   }
                 }
               },
               "properties": {
                 "member": "Items",
                 "module": "变更执行中",
-                "type": "变更执行中.Gallery1_3"
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158"
               }
             }
           ],
           "message": {
             "arguments": [
-              "Filter"
+              "变更类型"
             ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "app-SuggestRemoteExecutionHint-InOpRhs",
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 13,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Choices(变更类型)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Choices"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.详细变更内容_DataCard4"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 68,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"new_neirong\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.详细变更内容_DataCard4"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.详细变更内容_DataCard4"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.详细变更内容_DataCard4.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".详细变更内容"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.详细变更内容_DataCard4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更原因_DataCard7"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_remark\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更原因_DataCard7"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更原因_DataCard7"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更原因_DataCard7.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更原因"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更原因_DataCard7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更内容_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 70,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_content\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更内容_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更内容_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更内容_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更内容"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更内容_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 71,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"new_changeline\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更线体"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": "变更线体"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "变更线体"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 13,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Choices(变更线体)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Choices"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更工位_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 71,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_workshop\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更工位_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更工位_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更工位_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更工位"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更工位_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更时间_DataCard2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 82,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"craa0_estimatedchangetime\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更时间_DataCard2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更时间_DataCard2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更时间_DataCard2.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更时间"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更时间_DataCard2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.PCA编号_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 64,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"new_pca\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.PCA编号_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.PCA编号_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.PCA编号_DataCard6.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".PCA编号"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.PCA编号_DataCard6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 67,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"new_xianti\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更产线"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": "选择线体"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "选择线体"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 13,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Choices(选择线体)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Choices"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "控制点变更申请表"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更是否关闭_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "控制点变更申请表"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 67,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@控制点变更申请表],DataSourceInfo.DisplayName,\"new_guanbi\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更是否关闭_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更是否关闭_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更是否关闭_DataCard5.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".变更是否关闭"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更是否关闭_DataCard5"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
           "ruleIndex": 3
         },
         {
@@ -729,6 +4934,287 @@
           },
           "ruleId": "app-ErrNeedControl-Func",
           "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 83,
+                  "snippet": {
+                    "text": "表1"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "表1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 26,
+                  "charOffset": 76,
+                  "snippet": {
+                    "text": "Filter(表1,邮箱=User().Email)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Filter"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 86,
+                  "snippet": {
+                    "text": "邮箱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "邮箱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 88,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label17.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label17.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".优先级"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5.Label17"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "优先级"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label21.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label21.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".姓名"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5.Label21"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "姓名"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label20.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.Gallery5.Label20.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".区域"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "Screen3",
+                "type": "Screen3.Gallery5.Label20"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "区域"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -889,6 +5375,207 @@
           },
           "ruleId": "app-ErrInvalidArgs-Func",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 101,
+                  "snippet": {
+                    "text": "表1"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.DataTable2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "表1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 29,
+                  "charOffset": 94,
+                  "snippet": {
+                    "text": "LookUp(表1,邮箱=User().Email,区域)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.DataTable2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "LookUp"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 104,
+                  "snippet": {
+                    "text": "邮箱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.DataTable2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "邮箱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 106,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.DataTable2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Error",
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen3.DataTable2.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 120,
+                  "snippet": {
+                    "text": "区域"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen3",
+                "type": "Screen3.DataTable2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "区域"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -1515,6 +6202,96 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更类型_DataCard8.DataCardValue158"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更线体_DataCard12.DataCardValue166"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "变更执行中",
+                "type": "变更执行中.FormViewer4.变更产线_DataCard8.DataCardValue170"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Screen3"
                 }
               ],
@@ -1898,35 +6675,6 @@
           },
           "ruleId": "app-UnusedMediaResources",
           "ruleIndex": 9
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-DataSourceDefaultMaxRowsLimit",
-          "ruleIndex": 10
         }
       ],
       "tool": {
@@ -1984,21 +6732,15 @@
               }
             },
             {
-              "id": "app-SuggestRemoteExecutionHint-InOpRhs",
+              "id": "app-ErrInvalidDot",
               "messageStrings": {
                 "issue": {
-                  "text": "Delegation warning. The highlighted part of this formula might not work correctly on large data sets."
+                  "text": "Invalid use of '.'"
                 }
               },
               "properties": {
                 "componentType": "app",
-                "howToFix": [
-                  "Change the item to the right of the \"in\" operator to be a column from the correct data source.",
-                  "If your data set exceeds the 500 record limit but contains less than 2,000 records, try resetting the limit.",
-                  "Try simplifying the formula.",
-                  "Try moving your data to a different data source."
-                ],
-                "level": "Medium",
+                "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""
               }
@@ -2100,23 +6842,6 @@
                 "level": "Medium",
                 "primaryCategory": "performance",
                 "whyFix": "This media file is not referenced by any control formulas so it is not needed. Removing it will improve performance."
-              }
-            },
-            {
-              "id": "app-DataSourceDefaultMaxRowsLimit",
-              "messageStrings": {
-                "issue": {
-                  "text": "Data row limit for non-delegable queries is more than 500"
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Update 'Data row limit for non-delegable queries' in the advanced app settings."
-                ],
-                "level": "Medium",
-                "primaryCategory": "performance",
-                "whyFix": "A 'data row limit' more than 500 may result in a slower app when running non-delegable queries, because the app will have to process every row itself, rather than running the query on the server."
               }
             }
           ],
