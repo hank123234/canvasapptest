@@ -289,17 +289,3 @@ Screen3 As screen:
             Y: =0
             ZIndex: =19
 
-        "'变更是否关闭列(_C)1' As dataTableColumn.textualColumn":
-            DisplayMode: =DisplayMode.Edit
-            FieldDisplayName: ="变更是否关闭"
-            FieldName: ="new_guanbi"
-            FieldVariantName: ="textualColumn"
-            Height: =Parent.Height
-            LayoutHeight: =Parent.Height
-            Order: =13
-            Text: =ThisItem.变更是否关闭
-            Width: =100
-            X: =0
-            Y: =0
-            ZIndex: =20
-

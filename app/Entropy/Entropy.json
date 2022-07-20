@@ -37,7 +37,6 @@
     "变更执行中": 26,
     "变更时间列(_C)1": 34,
     "变更时间列(_C)2": 20,
-    "变更是否关闭列(_C)1": 24,
     "变更类型列(_C)1": 29,
     "变更类型列(_C)2": 14,
     "变更线体列(_C)1": 18,
@@ -51,7 +50,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/20/2022 07:28:57",
+  "HeaderLastSavedDateTimeUTC": "07/20/2022 07:30:06",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "47c4681d-705d-43f7-95e9-2654557a2ca0": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/shared-commondataser-7679bd0a-1d2e-4cba-9583-1d7a-1caf3b4e\"",
@@ -152,7 +151,6 @@
     "变更执行中": 25,
     "变更时间列(_C)1": 36,
     "变更时间列(_C)2": 19,
-    "变更是否关闭列(_C)1": 23,
     "变更类型列(_C)1": 31,
     "变更类型列(_C)2": 13,
     "变更线体列(_C)1": 17,
@@ -193,7 +191,7 @@
       "screen": 2
     },
     "DeserializationLoadTime": 1.9196856,
-    "ErrorCount": 35
+    "ErrorCount": 34
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

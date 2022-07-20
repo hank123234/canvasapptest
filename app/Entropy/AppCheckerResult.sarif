@@ -815,46 +815,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen3.DataTable2.'变更是否关闭列(_C)1'.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Screen3.DataTable2.'变更是否关闭列(_C)1'.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".变更是否关闭"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "Screen3",
-                "type": "Screen3.DataTable2.'变更是否关闭列(_C)1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "变更是否关闭"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "变更执行中.DataTable1.'申请编号列(_C)1'.Text"
                 }
               ],
