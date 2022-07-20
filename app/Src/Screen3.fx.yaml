@@ -303,17 +303,3 @@ Screen3 As screen:
             Y: =0
             ZIndex: =20
 
-        "'变更产线列(_C)1' As dataTableColumn.complexOptionSetColumn":
-            DisplayMode: =DisplayMode.Edit
-            FieldDisplayName: ="变更产线"
-            FieldName: ="new_xianti"
-            FieldVariantName: ="complexOptionSetColumn"
-            Height: =Parent.Height
-            LayoutHeight: =Parent.Height
-            Order: =14
-            Text: =ThisItem.变更产线
-            Width: =100
-            X: =0
-            Y: =0
-            ZIndex: =21
-
